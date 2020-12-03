@@ -1,0 +1,24 @@
+#titulo{
+    background-color: black;
+    color: white;
+}
+
+.coluna{
+    border: 1px solid black;
+    height: 600px;
+}
+
+.coluna h2{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #222222;
+    color: #dddddd;
+}
+
+.imagem{
+    width: 50%;
+    margin-bottom: 10px;
+}

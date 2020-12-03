@@ -1,0 +1,32 @@
+*************************************************************************************************
+
+PARA A CAIXA RETANGULAR
+
+PEDIR
+	lado l (largura em cm)
+	lado c (comprimento em cm)
+	lado h (altura cm)
+
+CALCULAR
+	Área (em cm2): 2 * (l*c + c*h + h*l)
+	Volume (em cm3): l * c * h
+	Litros: volume * 0.001 
+	Custo da caixa: pensar - o metro quadrado de papelão impermeável custa 5,00 (usar área)
+
+
+**************************************************************************************************
+
+PARA A CAIXA CILÍNDRICA
+
+PEDIR
+	lado r (raio em cm)
+	lado h (altura cm)
+
+CALCULAR
+	Área (em cm2): 2 * pi * r * (r + h)
+	Volume (em cm3): pi * r * r * h
+	Litros: volume * 0.001 
+	Custo da caixa: pensar - o metro quadrado de papelão impermeável custa 5,00 (usar área)
+
+
+**************************************************************************************************
